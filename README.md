@@ -1,7 +1,13 @@
 # GSGP distance and weight
 The codes describing the selection of distances and weights of GSGP.
 
-- **distance_and_weights.ipynb**
+- **distance_and_weights_TCGA_eQTL.ipynb**
+
+Calculate parameters using TCGA eQTL data. The main parameters used by our paper.
+
+Gene annotations should be obtained from [GENCODE](https://www.gencodegenes.org/human/).
+
+- **distance_and_weights_GTEx.ipynb**
 
 Calculate parameters using GTEx eQTL data.
 
@@ -11,7 +17,7 @@ Gene annotations should be obtained from [here](https://storage.googleapis.com/g
 
 - **distance_and_weights_TCGA_BRCA.ipynb**
 
-Calculate parameters using TCGA BRCA eQTL data.
+Calculate parameters using TCGA BRCA eQTL data provided by previous [research](https://doi.org/10.1016/j.cell.2012.12.034).
 
 eQTLs are contained in the supplementary table 2 and 3 of [this](https://doi.org/10.1016/j.cell.2012.12.034) paper.
 
