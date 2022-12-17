@@ -1,3 +1,6 @@
+# For Reviewers:
+Sorry!!! We forgot to upload Supplementary Table S7 in the submission system. Please take the table from [here](https://github.com/Evan210/GSGP_distance_and_weight/blob/main/Supplementary%20Table%20S7.xlsx) for now. We have contacted the Journal for help and are waiting for a reply.
+
 # GSGP distance and weight
 The codes describing the selection of distances and weights of GSGP.
 
